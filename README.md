@@ -1,4 +1,4 @@
 keep
 ====
 
-A full featured implementation for provisioning and lifecycle management of encryption materials.
+Command line client for the Barbican API.
